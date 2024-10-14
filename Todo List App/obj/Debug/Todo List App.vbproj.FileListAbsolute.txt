@@ -1,0 +1,75 @@
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\Todo List App.exe.config
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\Todo List App.exe
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\Todo List App.pdb
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\WindowsApp1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.BonusSkins.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Mvvm.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Mvvm.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo_List_App.Resources.resources
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.exe.licenses
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo Lis.67B566EA.Up2Date
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.exe
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\WindowsApp1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo List App.pdb
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo_List_App.LoginCrud.resources
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo_List_App.DashboardCrud.resources
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Dashboard.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.DataAccess.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.PivotGrid.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraReports.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Map.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraTreeMap.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraCharts.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraGauges.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Xpo.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Charts.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.TreeMap.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.CodeParser.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.DataAccess.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraReports.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Map.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Xpo.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\obj\Debug\Todo_List_App.SplashScreen.resources
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\DELL\Desktop\ZD_PRJ\Todo List App\Todo List App\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
