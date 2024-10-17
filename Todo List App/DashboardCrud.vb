@@ -10,7 +10,7 @@
 
         GridControl1.DataSource = tareas
 
-        task_status.Properties.Items.AddRange(New String() {"Pendiente", "En Proceso", "Completado"})
+        task_status.Properties.Items.AddRange(New String() {"Pendiente", "En Proceso", "Completado", "Con retraso"})
 
         GridControl1.MainView = GridView1
 
